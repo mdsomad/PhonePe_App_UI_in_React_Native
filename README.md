@@ -1,3 +1,122 @@
+## PhonePe clone App Ui Preview
+
+
+
+<table>
+  
+  
+<tr>                    
+   
+   <th> Home Screen View</th>
+   <th> Home Screen View 2</th>
+   <th> Stores View</th> 
+   <th> Stores View 2</th> 
+
+
+</tr>
+  
+  
+  
+  
+<tr>
+
+<td>
+
+<img src="https://github.com/mdsomad/PhonePe_App_UI_in_React_Native/assets/103892160/0589720b-5baa-48cd-9017-ead4e1cd3dc7" alt="Home Screen View Example" width="270"/>
+
+</td>
+  
+  
+  
+<td>
+
+ <img src="https://github.com/mdsomad/PhonePe_App_UI_in_React_Native/assets/103892160/e037499f-3e47-46e7-9614-b1eb9f29c489" alt="Pin Screen View Example" width="270"/>
+
+</td>
+
+  
+<td>
+  
+<img src="https://github.com/mdsomad/PhonePe_App_UI_in_React_Native/assets/103892160/7737394a-6628-4332-8a9a-c2b20b0044d9" alt="NoteView Screen Example" width="270"/>
+
+</td>
+
+
+<td>
+  
+<img src="https://github.com/mdsomad/PhonePe_App_UI_in_React_Native/assets/103892160/71d047ad-d3b1-4033-bb26-0859cc4ab291" alt="Note Add Screen View Example" width="270"/>
+
+</td>
+
+  
+
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+  
+  
+<tr>                    
+   
+   <th> Insurance View</th> 
+   <th> Wealth View</th> 
+   <th> Histoy View</th> 
+
+
+</tr>
+  
+  
+  
+  
+<tr>
+
+<td>
+
+<img src="https://github.com/mdsomad/PhonePe_App_UI_in_React_Native/assets/103892160/38f51b43-651d-46e2-9d79-d70443f0a157" alt="Home Screen View Example" width="270"/>
+
+</td>
+  
+  
+  
+<td>
+
+ <img src="https://github.com/mdsomad/PhonePe_App_UI_in_React_Native/assets/103892160/4c72b470-8a34-4d90-8f57-f8d17ea08c1d" alt="Pin Screen View Example" width="270"/>
+
+</td>
+
+  
+<td>
+  
+<img src="https://github.com/mdsomad/PhonePe_App_UI_in_React_Native/assets/103892160/3130af09-1107-4cd2-a53e-ec501b9b1622" alt="NoteView Screen Example" width="270"/>
+
+</td>
+
+
+
+  
+
+
+</tr>
+</table>
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
